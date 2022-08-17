@@ -23,8 +23,6 @@ I like
 
 Here are some projects / articles you might be interested in:
 
-### Deep Learning Research
-
 - ### [MinImagen - A Minimal Imagen Text-to-Image Implementation](https://www.assemblyai.com/blog/build-your-own-imagen-text-to-image-model/)
     - MinImagen is a project intended to understand how State-of-the-Art text-to-image models like Imagen and DALL-E 2 work
     - Check out these resources to learn more:
